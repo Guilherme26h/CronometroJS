@@ -18,7 +18,7 @@ novamente a conta adicionando.
 
 ## Dificuldades
 
-    O projeto por ser criado em JavaScript não foi encontrado muitas dificuldades além de escolher
+   O projeto por ser criado em JavaScript não foi encontrado muitas dificuldades além de escolher
 a melhor função para ser determindada essa somatória das variaveis de tempo em tempo, foi escolhida
 a função nativa do javaScript setInterval e clearInterval devido aos seus beneficios e encaixe no 
 projeto.
