@@ -1,24 +1,14 @@
 # CronometroJS
-Cronômetro Básico JavaScript
+Um simples cronômetro desenvolvido em JavaScript.
 
-## Motivo do projeto
-
-    Efetuar um aplicativo básico para treinar habilidades adquiridas em JavaScript.
+## Motivo do Projeto
+O objetivo deste projeto é criar um aplicativo básico para treinar as habilidades adquiridas em JavaScript.
 
 ## Imagem
+![Imagem do Cronômetro](./res/Imagem.png)
 
- <img src="./res/Imagem.png">
- 
-## Lógica Cronônometro
-
-Será efetuado a somatoria das variaveis adicionando mais um, fazendo assim o cronômetro
-efetuar um efeito crescente nos valores, quando a variavel chegar ao numero total estipulado
-(60 para milisegundos, segundos e minutos, e 12 para horas), sua variavel irá zerar e efetuar,
-novamente a conta adicionando.
+## Lógica do Cronômetro
+O cronômetro funciona somando as variáveis de tempo e incrementando-as a cada segundo. Quando uma variável atinge seu limite (60 para milissegundos, segundos e minutos, e 12 para horas), ela é zerada e a contagem continua.
 
 ## Dificuldades
-
-   O projeto por ser criado em JavaScript não foi encontrado muitas dificuldades além de escolher
-a melhor função para ser determindada essa somatória das variaveis de tempo em tempo, foi escolhida
-a função nativa do javaScript setInterval e clearInterval devido aos seus beneficios e encaixe no 
-projeto.
+Não foram encontradas muitas dificuldades durante o desenvolvimento, uma vez que o projeto foi criado em JavaScript. A principal escolha foi determinar a melhor função para realizar a soma das variáveis de tempo. Optou-se pelo uso das funções nativas setInterval e clearInterval devido aos seus benefícios e compatibilidade com o projeto.
